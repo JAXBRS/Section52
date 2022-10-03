@@ -26,6 +26,8 @@ public class Section52Sorter{
         System.out.println("Hello World");
         sort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("im sultan");
+        
         
     }
 }
